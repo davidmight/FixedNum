@@ -1,0 +1,164 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6399E853133518420046391E /* FixedNum */;
+		activeTarget = 8DD76F620486A84900D96B5E /* FixedNum */;
+		addToTargets = (
+			8DD76F620486A84900D96B5E /* FixedNum */,
+		);
+		codeSenseManager = 6399E85F133518510046391E /* Code sense */;
+		executables = (
+			6399E853133518420046391E /* FixedNum */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 372785812;
+			PBXWorkspaceStateSaveDate = 372785812;
+		};
+		perUserProjectItems = {
+			630A345C1520E09B00572581 = 630A345C1520E09B00572581 /* PBXTextBookmark */;
+			630A345D1520E09B00572581 = 630A345D1520E09B00572581 /* PBXTextBookmark */;
+			630A345E1520E09B00572581 = 630A345E1520E09B00572581 /* PBXTextBookmark */;
+			630A345F1520E09B00572581 = 630A345F1520E09B00572581 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6399E85E133518510046391E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	630A345C1520E09B00572581 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6399E860133518670046391E /* FixedPoint.h */;
+		name = "FixedPoint.h: 11";
+		rLen = 89;
+		rLoc = 123;
+		rType = 0;
+		vrLen = 592;
+		vrLoc = 83;
+	};
+	630A345D1520E09B00572581 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6399E8BD13365B700046391E /* basic.cc */;
+		name = "basic.cc: 44";
+		rLen = 0;
+		rLoc = 1445;
+		rType = 0;
+		vrLen = 644;
+		vrLoc = 905;
+	};
+	630A345E1520E09B00572581 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6399E861133518670046391E /* FixedPoint.cpp */;
+		name = "FixedPoint.cpp: 65";
+		rLen = 0;
+		rLoc = 1154;
+		rType = 0;
+		vrLen = 450;
+		vrLoc = 15;
+	};
+	630A345F1520E09B00572581 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6399E861133518670046391E /* FixedPoint.cpp */;
+		name = "FixedPoint.cpp: 65";
+		rLen = 0;
+		rLoc = 1154;
+		rType = 0;
+		vrLen = 433;
+		vrLoc = 0;
+	};
+	6399E853133518420046391E /* FixedNum */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = FixedNum;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6399E85E133518510046391E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6399E85F133518510046391E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6399E860133518670046391E /* FixedPoint.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 572}}";
+			sepNavSelRange = "{123, 89}";
+			sepNavVisRange = "{83, 592}";
+			sepNavWindowFrame = "{{493, 4}, {787, 774}}";
+		};
+	};
+	6399E861133518670046391E /* FixedPoint.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1716}}";
+			sepNavSelRange = "{1154, 0}";
+			sepNavVisRange = "{0, 433}";
+			sepNavWindowFrame = "{{493, 4}, {787, 774}}";
+		};
+	};
+	6399E8BD13365B700046391E /* basic.cc */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 676}}";
+			sepNavSelRange = "{1445, 0}";
+			sepNavVisRange = "{905, 644}";
+			sepNavWindowFrame = "{{15, 4}, {787, 774}}";
+		};
+	};
+	8DD76F620486A84900D96B5E /* FixedNum */ = {
+		activeExec = 0;
+		executables = (
+			6399E853133518420046391E /* FixedNum */,
+		);
+	};
+}
